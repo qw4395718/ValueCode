@@ -1,0 +1,2 @@
+Define内部有DEBUG打印函数
+使用格式为："__DEBUG("");"
