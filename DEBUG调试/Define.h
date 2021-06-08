@@ -4,8 +4,6 @@
 #include <stdio.h>
 #include <io.h>
 #include <string>
-//#include "LibDbgLog.h"
-
 
 
 #ifndef WK_OK
